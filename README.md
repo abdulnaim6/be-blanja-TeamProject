@@ -96,8 +96,8 @@ Start the project
 
 ## Related Project
 
-⚡[`Backend Blanja`](https://github.com/mrizkysolehudin/be-blanja-TeamProject)⚡
+⚡[`Backend Blanja`](https://github.com/abdulnaim6/be-blanja-TeamProject)⚡
 
-⚡[`Frontend Blanja`](https://github.com/mrizkysolehudin/fe-blanja-TeamProject)⚡
+⚡[`Frontend Blanja`](https://github.com/abdulnaim6/fe-blanja)⚡
 
 ⚡[`Demo Blanja`](https://master--blanja-web-team.netlify.app/)⚡
